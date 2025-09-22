@@ -48,9 +48,8 @@ Analyzes the **last 50 contests** of each division (Div 1, 2, 3, and 4), updated
 
 ## 🙋‍♂️ Author
 
-**Aditya Ojha**  
-Computer Science
-B.Tech (2022–2026), National Institute of Technology , Raipur
+**Gaurav Yadav**  
+B.Tech (2022–2026), Indian Institute of Technology - IIT BHU
 
 ---
 
